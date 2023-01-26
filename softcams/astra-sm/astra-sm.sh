@@ -1,3 +1,4 @@
+echo " Installing Astra-Sm Please Wait... " 
 cd /tmp
 set -e
 wget "https://raw.githubusercontent.com/join93/feed/main/softcams/astra-sm/astra-sm.tar.gz"
