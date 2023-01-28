@@ -1,4 +1,4 @@
-##wget https://raw.githubusercontent.com/join93/feed/main/weblinks/scripts.sh -O - | /bin/sh##
+##wget https://raw.githubusercontent.com/join93/feed/main/weblinks/scripts-es.sh -O - | /bin/sh##
 
 cd /tmp
 set -e
