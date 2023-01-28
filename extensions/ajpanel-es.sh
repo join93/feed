@@ -1,4 +1,4 @@
-##wget https://raw.githubusercontent.com/join93/feed/main/extensions/ajpanel-dev.sh -O - | /bin/sh##
+##wget https://raw.githubusercontent.com/join93/feed/main/extensions/ajpanel-es.sh -O - | /bin/sh##
 
 version=8.4.0
 
