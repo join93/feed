@@ -1,7 +1,7 @@
 
 #!/bin/sh
 
-## ✅️SCRIPT :wget -q "--no-check-certificate" https://raw.githubusercontent.com/join93/feed/main/extensions/tssateditor/tssateditor-py2-es.sh -O - | /bin/sh
+## ✅️SCRIPT :wget -q "--no-check-certificate" https://raw.githubusercontent.com/join93/feed/main/extensions/tssateditor/tssateditor-es.sh -O - | /bin/sh
 
 ##########################################
 version=2.0
