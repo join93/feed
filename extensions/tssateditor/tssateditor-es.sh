@@ -6,6 +6,13 @@
 ##########################################
 version=2.0
 #############################################################
+PYTHON_VERSION=$(python -c"import sys; print(sys.version_info.major)") 
+
+if [ "$PYTHON_VERSION" -eq 3 ]; then
+
+wget -q "--no-check-certificate" https://raw.githubusercontent.com/join93/feed/main/extensions/tssateditor/tssateditor-py3-es.sh -O - | /bin/sh
+
+else
 
 TEMPATH=/tmp
 
@@ -37,6 +44,7 @@ rm -f /tmp/$MY_IPK
 
 	if [ $? -eq 0 ]; then
 echo "#                 "$MY_PACK"-"$version" installed successfully            #"
+fi
 fi
 
 exit 0
