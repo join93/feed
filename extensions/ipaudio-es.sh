@@ -184,7 +184,7 @@ rm -f /usr/bin/ff-ipaudio >/dev/null 2>&1
 
 cd $TEMPATH
 set -e
-wget -q --no-check-certificate "https://raw.githubusercontent.com/join93/feed/main/extensions/ipaudio-$version-ffmpeg.tar.gz"
+wget -q "http://ipkinstall.ath.cx/ipk-install/ipaudio-linuxsat/ipaudio-$version-ffmpeg.tar.gz"
 
 tar -xzf ipaudio-"$version"-ffmpeg.tar.gz -C /tmp
 set +e
@@ -227,6 +227,5 @@ fi
 
 rm -r /tmp/ipaudio
 rm -f $CHECK
-
 
 exit 0
