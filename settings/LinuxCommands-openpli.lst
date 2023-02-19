@@ -1,0 +1,63 @@
+-------------‐------------------------------------------------------------
+>>>>>>>>>>باكآب صورة openpli 8.3<<<<<<<<<<
+
+
+-------------‐------------------------------------------------------------
+
+opkg install  enigma2-plugin-extensions-ajpanel
+opkg install enigma2-plugin-systemplugins-autoresolution
+opkg install enigma2-plugin-extensions-arabicsavior
+opkg install enigma2-plugin-systemplugins-blindscan
+opkg install enigma2-plugin-extensions-bitrate
+opkg install enigma2-plugin-extensions-bissfeed-autokey
+opkg install enigma2-plugin-extensions-cacheflush
+opkg install enigma2-plugin-extensions-chocholousek-picons
+opkg install enigma2-plugin-systemplugins-crossepg
+opkg install enigma2-plugin-extensions-crondmanager
+opkg install enigma2-plugin-systemplugins-defaultservicesscanner
+opkg install enigma2-plugin-systemplugins-devicemanager
+opkg install enigma2-plugin-extensions-dreamsatpanel
+opkg install enigma2-plugin-extensions-e2iplayer
+opkg install enigma2-plugin-extensions-epgimport enigma2-plugin-extensions-epggrabber
+opkg install enigma2-plugin-settings-eliesat.motor
+opkg install enigma2-plugin-systemplugins-fastchannelchange
+opkg install enigma2-plugin-extensions-feeds-finder
+opkg install enigma2-plugin-extensions-footonsat
+opkg install enigma2-plugin-extensions-fontinfo
+opkg install enigma2-plugin-extensions-fontmagnifier
+opkg install enigma2-plugin-extensions-ipaudio
+opkg install enigma2-plugin-extensions-ipchecker
+opkg install enigma2-plugin-extensions-iptosat
+opkg install enigma2-plugin-extensions-internet-speedtest
+opkg install enigma2-plugin-extensions-jedimakerxtream
+opkg install enigma2-plugin-extensions-keyadder
+opkg install enigma2-plugin-systemplugins-mountmanager
+opkg install enigma2-plugin-extensions-multistalker
+opkg install enigma2-plugin-systemplugins-newvirtualkeyboard
+wget https://gitfront.io/r/eliesat/xeFZ1oNY38TL/pro/raw/encryption/oscam-installer.sh -O - | /bin/sh
+opkg install --force-overwrite  https://raw.githubusercontent.com/join93/backup/main/enigma2-plugin-softcams-support_2-r0.2_all.ipk
+opkg install enigma2-plugin-extensions-oscamstatus
+opkg install enigma2-plugin-extensions-ts-sateditor
+opkg install enigma2-plugin-extensions-permanentclock
+opkg install enigma2-plugin-extensions-quarterpounder
+wget -q --no-check-certificate https://raw.githubusercontent.com/join93/feed/main/weblinks/scripts-es.sh -O - | /bin/sh
+opkg install enigma2-plugin-extensions-scriptexecutor
+opkg install enigma2-plugin-extensions-setpicon
+opkg install enigma2-plugin-extensions-subssupport
+wget -O /usr/lib/enigma2/python/Plugins/Extensions/SubsSupport/subtitles.py "https://raw.githubusercontent.com/join93/feed/main/systemplugins/subtitles.py"
+
+opkg install enigma2-plugin-systemplugins-softwaremanager
+opkg install enigma2-plugin-systemplugins-swapmanager
+opkg install enigma2-plugin-systemplugins-setpasswd
+opkg install enigma2-plugin-skins-teamnitro-control-centre
+opkg install enigma2-plugin-extensions-translator
+opkg install enigma2-plugin-extensions-tuneinradio
+opkg install enigma2-plugin-systemplugins-videoenhancement
+opkg install enigma2-plugin-extensions-weatherplugin-icons
+opkg install enigma2-plugin-extensions-weather-msn
+opkg install enigma2-plugin-systemplugins-wirelesslan
+opkg install enigma2-plugin-systemplugins-weathercomponenthandler
+opkg install enigma2-plugin-extensions-xstreamity
+opkg install enigma2-plugin-extensions-xtraevent
+wget https://gitfront.io/r/eliesat/xeFZ1oNY38TL/pro/raw/openpli-settings-es.sh -O - | /bin/sh
+
