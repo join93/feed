@@ -1,6 +1,6 @@
 ##wget https://raw.githubusercontent.com/join93/feed/main/extensions/arabicsavior-es.sh -O - | /bin/sh##
 
-version=2.0
+version=2.1
 
 
 cd /tmp
