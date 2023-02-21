@@ -13,12 +13,16 @@ wget -O ajpanel-folder.tar.gz "https://raw.githubusercontent.com/join93/feed/mai
 
 wget -O ajpanel-settings.tar.gz "https://raw.githubusercontent.com/join93/feed/main/extensions/ajpanel-settings.tar.gz"
 
+wget -O ajpanel-ar.tar.gz "https://raw.githubusercontent.com/join93/feed/main/extensions/ajpanel-ar.tar.gz"
 
 tar -xzf ajpanel-folder.tar.gz -C /
 tar -xzf ajpanel-settings.tar.gz -C /
+tar -xzf ajpanel-ar.tar.gz -C /
 set +e
 rm -f ajpanel-folder.tar.gz
 rm -f ajpanel-settings.tar.gz
+rm -f ajpanel-ar.tar.gz
+
 echo''
 if [ -d "/ajpanel" ]; then wget -O /ajpanel/LinuxCommands-openpli.lst "https://raw.githubusercontent.com/join93/feed/main/settings/LinuxCommands-openpli.lst"
 fi
