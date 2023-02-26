@@ -1,7 +1,7 @@
 #!/bin/sh
 #wget -q "--no-check-certificate" http://ipkinstall.ath.cx/ipk-install/ipaudio-linuxsat/installer-ffmpeg.sh -O - | /bin/sh
 ######### Only These two lines to edit with new version ######
-version=7.7
+version=7.4
 description="Some bug fixes"
 #############################################################
 
