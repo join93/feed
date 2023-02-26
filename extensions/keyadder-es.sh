@@ -1,6 +1,6 @@
 ##wget https://raw.githubusercontent.com/join93/feed/main/extensions/keyadder-es.sh -O - | /bin/sh##
 
-version=6.4
+version=6.7
 
 cd /tmp
 set -e
