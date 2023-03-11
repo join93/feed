@@ -1,7 +1,7 @@
 #!/bin/sh
 ##
 
-version=31.01.2023
+version=11.03.2023
 
 echo "===> Downloading  ElieSat Motor Channels List "$version" Please Wait ......"
 sleep 10s
