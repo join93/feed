@@ -4,7 +4,7 @@ echo ":====> installing feed please wait..."
 echo "#####################################"
 sleep 10s
 
-wget -O /etc/opkg/join93-pro-feed.conf https://raw.githubusercontent.com/join93/feed/main/feed/feed-installer.sh
+wget -O /etc/opkg/join93-pro-feed.conf https://raw.githubusercontent.com/join93/feed/main/feed/join93-pro-feed.conf
 
 PYTHON_VERSION=$(python -c"import sys; print(sys.version_info.major)")
 
