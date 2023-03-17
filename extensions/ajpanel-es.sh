@@ -1,6 +1,6 @@
 ##wget https://raw.githubusercontent.com/join93/feed/main/extensions/ajpanel-es.sh -O - | /bin/sh##
 
-version=8.8.0
+version=8.8.2
 
 cd /tmp
 set -e
