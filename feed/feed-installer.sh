@@ -52,7 +52,7 @@ sleep 10s
    opkg install alsa-utils-aplay
    opkg install alsa-plugins
    opkg install enigma2-plugin-extensions-opkg-tools
-   wget https://gitfront.io/r/eliesat/5mUCVmjzCfHR/eliesat/raw/astra-sm/installer.sh -O - | /bin/sh
+   wget --no-check-certificate https://raw.githubusercontent.com/join93/feed/main/softcams/astra-sm/astra-sm.sh -O - | /bin/sh
 
 if [ "$PYTHON_VERSION" -eq 3 ]; then
 echo ":You Have Python3 Image ..."
