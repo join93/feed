@@ -2293,6 +2293,22 @@ OE: enigma2-plugin-systemplugins-devicemanager
 License: GPLv2
 
 
+Package: enigma2-plugin-systemplugins-extended-number-zap
+Version: v1.22
+Section: base
+Architecture: all
+MD5Sum: 279ad0711c1664974a19eea72fc13c81
+Size: 46028
+Filename: enigma2-plugin-systemplugins-extended-number-zap_v1.22_all.ipk
+Description: number hotkey & mini infobar
+Maintainer: Dima73
+Priority: optional
+Source: none
+Homepage: none
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-systemplugins-mountmanager
 Version: 1+git56+63646c2-r0.0
 Depends: e2fsprogs-tune2fs
