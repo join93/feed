@@ -1699,8 +1699,8 @@ Version: 1.0
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 99f94f1e037c794bd8b6e31262f6fbc1
-Size: 906
+MD5Sum: 9ac3c62276b102b35f0c3885044009cc
+Size: 904
 Filename: enigma2-plugin-settings-hazemwahba.motor_1.0_all.ipk
 Description: Hazem Wahba E2 Settings File Motor 30.0w to 70.5e
 Maintainer: eliesat
