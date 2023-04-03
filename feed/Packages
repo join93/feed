@@ -334,13 +334,13 @@ License: none
 
 
 Package: enigma2-plugin-extensions-ajpanel
-Version: v8.8.0
+Version: v8.8.3
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 76b549b6befbb6f4a63a1b1e8739b9a2
+MD5Sum: b0ef2cb4db884880e3415e55ce5413cc
 Size: 806
-Filename: enigma2-plugin-extensions-ajpanel_v8.8.0_all.ipk
+Filename: enigma2-plugin-extensions-ajpanel_v8.8.3_all.ipk
 Description: Enigma2 Tools
 Maintainer: AMA-Jamry
 Priority: optional
@@ -1660,6 +1660,23 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-settings-ahmedshawky.motor
+Version: 1.0
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: edcc22696d624c710f451155912a01ec
+Size: 912
+Filename: enigma2-plugin-settings-ahmedshawky.motor_1.0_all.ipk
+Description: Ahmed Shawky E2 Settings File Motor 30.0w to 70.5e
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-settings-eliesat.motor
 Version: 1.0
 Depends: enigma2
@@ -1669,6 +1686,23 @@ MD5Sum: 5497aa8099b398e3d2d5cc204f66127e
 Size: 900
 Filename: enigma2-plugin-settings-eliesat.motor_1.0_all.ipk
 Description: ElieSat E2 Settings File Motor 30.0w to 70.5e
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-settings-hazemwahba.motor
+Version: 1.0
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 99f94f1e037c794bd8b6e31262f6fbc1
+Size: 906
+Filename: enigma2-plugin-settings-hazemwahba.motor_1.0_all.ipk
+Description: Hazem Wahba E2 Settings File Motor 30.0w to 70.5e
 Maintainer: eliesat
 Priority: optional
 Source: none
