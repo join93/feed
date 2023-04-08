@@ -1,7 +1,7 @@
 #!/bin/sh
 ##
 
-version=31.03.2023
+version=07.04.2023
 
 echo "===> Downloading  HazemWahba Motor Channels List "$version" Please Wait ......"
 sleep 10s
